@@ -15,4 +15,4 @@ It has a scope to serve the whole family member independently and offsite backup
 - [FAQs](FAQs.md)
 
 ### Disclaimer
-> Sharing the arch. on public web is a bad idea. But hey, it is not connected to web and if you know me personally, then you do not qualify to hack in my arch. (li'l showoff is from confidence).
+> Sharing the arch. on public web is a bad idea. But hey, it is not connected to web and if you know me personally and can break into my system, then please teach me also, I'll do well in OSCP.
